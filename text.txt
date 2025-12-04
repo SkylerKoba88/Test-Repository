@@ -1,6 +1,2 @@
 Here is some sample text.
-This is a change that I made
-
-
-BLALALALALahhhh
-ajcasfwefcoask
+This is a change that I made.
